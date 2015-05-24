@@ -11,7 +11,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : mathjax       # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+
 ---
 
 ## Background
@@ -31,12 +31,11 @@ The aim of this data product is to provide a recommendation based on information
 Some key facts about solar generation in Australia:
 
 ```r
-average_usage_per_person <- 5
+average_usage_per_person <- 5 
 average_person_per_household <- 3.5
 average_usage_per_household <- average_usage_per_person * average_person_per_household
 avg_solar_gen <- 18
 ```
-
 
 ---
 
