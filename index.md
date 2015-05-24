@@ -24,7 +24,7 @@ However, to profit from this as a residential consumer depends on a number of fa
 
 The aim of this data product is to provide a recommendation based on information entered by the user.
 
---- .class #id 
+--- 
 
 ## The Facts
 
@@ -38,7 +38,7 @@ avg_solar_gen <- 18
 ```
 
 
---- .class #id 
+---
 
 ## The Logic
 
@@ -49,8 +49,7 @@ The logic for the current recommendation engine is rudimentary. It accounts for:
 * the average generation of the 90th percentile of solar panels in Australia which is 18 KWh.
 * the average usage per household in Eastern Australia which is 18 KWh.
 
-
---- .class #id 
+--- 
 
 ## Next Steps
 
