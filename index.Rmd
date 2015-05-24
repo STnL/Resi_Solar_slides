@@ -3,7 +3,6 @@ title       : Residential Solar Panels
 subtitle    : Assessing the profitability of residential solar panels in Eastern Australia
 author      : H. Thai
 job         : 
-logo        : solarpanel.png
 url:
   assets  : ../assets
   lib     : ../libraries
